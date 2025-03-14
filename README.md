@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Vikamuhan reddy N
-Roll no : 212223240181
-Date of experiment : 07/03/2024
+### Name : Vikamuhan reddy N
+### Roll no : 212223240181
+### Date of experiment : 07/03/2024
 
 
 
